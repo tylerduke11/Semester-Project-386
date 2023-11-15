@@ -1,0 +1,28 @@
+Part 1 Feedback
+Ideas: 
+1. How does the performance of the host country in the Summer Olympics differ from its performance in other editions?
+(I will find data on medal counts for each of the Olympic games)
+
+2. How does sleep duration and quality affect academic performance among students?
+(I will find data from sleep studies for students)
+
+3. Is salary correlated with player performance in the NBA?
+(I will find data from the NBA on player statistics and salary for each player)
+
+
+Feedback:
+"I think your second option might be kinda hard to find data unless you hone in on a specific study. 
+I like 3 and it seems to be a good scope for this project"
+
+"I agree that finding data for #2 sounds difficult, I think 1 and 3 could both be good, 
+although I bet number one has been answered already on the internet."
+
+"Unless you already have something in mind for 2, it'll probably take a lot of time to compile enough data. 
+3 is probably the most feasible. Just make sure you have enough variables you're looking at for that one. 
+I think Spencer is right that 1 has probably already been looked at. 
+Even if it isn't, I don't know what all you could look at to get enough variables in your dataset."
+
+"I feel like you may have to expand your ideas, specifically for the Olympics idea 
+(maybe look into medal counts for categories of events...). 
+I really like idea number 3 though. It's pretty clear where you can go to collect that sort of data
+and it would be really interesting to see which statistics correlate with a higher salary."
