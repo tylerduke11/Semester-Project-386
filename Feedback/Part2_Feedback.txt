@@ -1,9 +1,17 @@
-Part 1 Feedback
-
 Part 2 Feedback
 
-Part 3 Feedback
+1. "In the introduction maybe you could describe generally how you are going to evaluate player performance. 
+You ask the question "Are the best players getting paid the most?", 
+so maybe you could briefly mention how you are quantifying "best" 
+(with a more in depth explanation later on in the project of course)."
 
-Part 4 Feedback
+2. "If you would like, it might be helpful to include some code chunks for the 
+reader that show specifics of your data collection process. You break it down 
+step by step, so it might be helpful to have some code chunks for each step."
 
-Part 5 Feedback
+3. "This looks good. I would suggest maybe writing a bit more about the cleaning process. 
+You mentioned there were some variables you did not want to include, so it might be a good 
+idea to talk about the structure of the data that was scraped and how you decided what to keep and what to throw out."
+
+4. "Hey Tyler, nice post! I'd love to hear a little more about the rows or columns you didn't need 
+or maybe share some struggles you had while cleaning. (everyone loves a drama, right?)"
