@@ -83,18 +83,17 @@ for i, metric in enumerate(metrics):
 
 
 # %% EDA 5
-# Extract top 5 and bottom 5 teams by average points per game
-top_teams = avg_points.tail(3).index.tolist()
-bottom_teams = avg_points.head(3).index.tolist()
+# Extract top and bottom team by average points per game
+top_teams = avg_points.tail(1).index.tolist()
+bottom_teams = avg_points.head(1).index.tolist()
 selected_teams = top_teams + bottom_teams
 filtered_data = basketball[basketball['Team'].isin(selected_teams)]
 
 plt.figure(figsize=(10, 6))
 sns.lmplot(data=filtered_data, x="Salary", y="PTS", hue="Team", lowess=True)
-plt.title("Salary vs. Points per Game for Top 3 and Bottom 3 Teams by Points")
+plt.title("Salary vs. Points for Top and Bottom Teams")
 plt.xlabel('Salary (in Millions)')
 plt.ylabel('Average Points per Game')
-plt.grid(True)
 #plt.savefig("top3_bottom3_score.png")
 
 # %% EDA 6

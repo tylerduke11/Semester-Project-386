@@ -15,3 +15,12 @@ idea to talk about the structure of the data that was scraped and how you decide
 
 4. "Hey Tyler, nice post! I'd love to hear a little more about the rows or columns you didn't need 
 or maybe share some struggles you had while cleaning. (everyone loves a drama, right?)"
+
+5. "I think the post is great. Very pithy, which I like. I write for a newspaper, so my mind always picks out little 
+things to edit. I don’t love the redundancy of “unnecessary columns I wasn’t interested in”, and I would probably say 
+“columns of unnecessary data”, “columns of data I wasn't interested in”, or “columns of data that were unneeded for my analysis”.
+I would change “After all, they are contributing the most to the team they are on” to “After all, those players contribute 
+the most to their respective teams.” There were also some comma problems throughout.
+As far as more real feedback goes, try to center the data table on the page, so it’s easier to read an look at. 
+Also consider writing a bit more on the ethical considerations (e.g. Why is it okay to have this combination of 
+data all in one place?). In your first paragraph, when listing out the metrics, consider making it a bulleted list."

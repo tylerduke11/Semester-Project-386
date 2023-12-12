@@ -1,9 +1,13 @@
-Part 1 Feedback
+"Great Job on the blog post! I would suggest putting some headers in for each new graphic you are explaining. The graphs are all 
+put between plain text and so it's hard to see at first which graph the text is explaining.
+In the conclusion, I would also quickly address the most interesting findings you got from the EDA. 
+I feel it makes it just a little easier for the reader to walk away with some main ideas to think about."
 
-Part 2 Feedback
+"I think the analysis is well done in terms of a team’s offense, but I noticed there wasn’t much analysis on a 
+team’s defense considering player salaries. I think that maybe it would be more well-rounded to give more attention 
+to the team’s defensive metrics, if it is possible to provide those kinds of graphs with the data you collected. 
+Other than that, I would say a little summary at the conclusion would be nice to remember what the all the graphs showed."
 
-Part 3 Feedback
-
-Part 4 Feedback
-
-Part 5 Feedback
+"I think the graphs are very well done and there is some interesting analysis. I think it would have been cool if you had tied 
+the different graphs together more so that they were all answering one specific question or leading to some point, rather than 
+just getting random bits of relatively unconnected info."
