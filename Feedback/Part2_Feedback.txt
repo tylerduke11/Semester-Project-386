@@ -1,4 +1,4 @@
-Part 2 Feedback
+Part 2 Feedback: Feedback about my first blog post
 
 1. "In the introduction maybe you could describe generally how you are going to evaluate player performance. 
 You ask the question "Are the best players getting paid the most?", 
@@ -24,3 +24,9 @@ the most to their respective teams.” There were also some comma problems throu
 As far as more real feedback goes, try to center the data table on the page, so it’s easier to read an look at. 
 Also consider writing a bit more on the ethical considerations (e.g. Why is it okay to have this combination of 
 data all in one place?). In your first paragraph, when listing out the metrics, consider making it a bulleted list."
+
+
+How this feedback helped me:
+I went into more detail about the data-cleaning process and all the painstaking parts of that so the reader can understand better how I went about cleaning the data. I also added the table with all the variables and a few rows so the reader can get a better understanding of the data I collected.
+
+Here is the SHA number of my first draft: 6a81d2da5288f106c0b510e0934299533375db7e
