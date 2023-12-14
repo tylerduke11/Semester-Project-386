@@ -50,20 +50,9 @@ team_name_to_code = {
 st.title('NBA Data Analysis Dashboard')
 st.write('I have compiled some information about NBA team data, including player game stats from the 2022-2023 NBA season, team wins, and player salary. Take a look at some of my graphs I compiled based on the data!')
 
-# Create a sidebar with navigation links
-st.sidebar.title('Links for my Blog Page and GitHub Repository')
-blog_link = st.sidebar.button('https://tylerduke11.github.io/my-blog/2023/11/30/project-eda-findings.html')
-github_link = st.sidebar.button('https://github.com/tylerduke11/Semester-Project-386')
+st.markdown('[Link to Blog Post](https://tylerduke11.github.io/my-blog/2023/11/30/project-eda-findings.html)')
+st.markdown('[Link to GitHub Repository](https://github.com/tylerduke11/Semester-Project-386)')
 
-# Create hyperlinks based on user selections
-if blog_link:
-    st.write('Redirecting to your blog post...')
-    # Use st.markdown to create a hyperlink to your blog post
-    st.markdown('[Link to Blog Post](https://www.example.com/blog_post)')
-elif github_link:
-    st.write('Redirecting to your GitHub repository...')
-    # Use st.markdown to create a hyperlink to your GitHub repository
-    st.markdown('[Link to GitHub Repository](https://github.com/your_username/your_repository)')
 
 
 # %%
@@ -199,15 +188,12 @@ st.header("NBA Teams Points Distribution Dashboard")
 team_list = basketball['Team'].unique().tolist()
 selected_teams = st.multiselect('Select Teams to Compare', team_list, default=team_list)
 
-# Palette selection
-palette = st.radio('Select Color Palette', ['Set2', 'viridis', 'plasma', 'inferno', 'magma', 'cividis'])
-
 # Filter data based on selection
 filtered_data = basketball[basketball['Team'].isin(selected_teams)]
 
 # Plotting
 plt.figure(figsize=(10, 6))
-sns.boxplot(x='Team', y='PTS', data=filtered_data, palette=palette)
+sns.boxplot(x='Team', y='PTS', data=filtered_data, palette='Set2')
 plt.xticks(rotation=45)
 
 
