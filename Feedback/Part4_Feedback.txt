@@ -1,9 +1,10 @@
-Part 1 Feedback
-
-Part 2 Feedback
-
-Part 3 Feedback
-
 Part 4 Feedback
 
-Part 5 Feedback
+"I think this is really well done. The level of selection and detail that is available is perfect, the colors and visuals are great too. The only thing I would say is that you could consider including some interpretation and presentation of how the data relates to your research question. Also the github repo link didn't work for me."
+
+"The app is pretty cool! I love how customizable it is. For the team selectors I feel like it might be better if you had a couple teams selected as default right when you open up the app. That way all the graphs are there initially, and the user can customize them after. And then for the NBA Teams point distribution section I would suggest maybe getting rid of the color palette selector. It's just an extra element that doesn't really add data analysis insight and so it might distract from other elements of the dashboard that may be more important."
+
+How this feedback helped me:
+I fixed the GitHub repository link so that it can be accessed, and I got rid of the color palette selector since it was unnecessary.
+
+I faced some challenges with the dashboard creation process when I didn't have all the right libraries in the requirements.txt file, and knowing how to add some of the specifications to make it as user friendly and streamlined as possible. Overall it was a great experience!
